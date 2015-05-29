@@ -1,0 +1,1 @@
+# koa-seneca-auth-middleware
